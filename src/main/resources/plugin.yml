@@ -1,0 +1,5 @@
+name: MobLimiter
+version: ${project.version}
+main: me.robertlit.moblimiter.MobLimiter
+api-version: 1.15
+authors: [robertlit]
